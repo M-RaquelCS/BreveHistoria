@@ -22,8 +22,9 @@ Em cada rodada será sorteada 10 das 24 perguntas, fazendo com que elas sejam qu
 <div align='center'>
 <img width="300" src="./breveHistoria2.png" alt="pergunta">
 </div>
+
 ------
 Linkelin dos alunos envolvidos:
 
-[Maria Raquel](https://www.linkedin.com/in/maria-raquel-3b27531a5/)
+[Maria Raquel](https://www.linkedin.com/in/maria-raquel-3b27531a5/) |
 [Welison Henrique](https://www.linkedin.com/in/welison-henrique-8b20481a0/)
